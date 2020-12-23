@@ -1,0 +1,2 @@
+D:\Repositories\Projects\CPP_Projects\SoundSynthesizer\SoundSynthesizer\Debug\SoundSynthesizer.exe
+D:\Repositories\Projects\CPP_Projects\SoundSynthesizer\SoundSynthesizer\Debug\SoundSynthesizer.pdb
